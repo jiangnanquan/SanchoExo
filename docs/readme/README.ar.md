@@ -1,5 +1,5 @@
 <div align="right" dir="ltr">
-  <a href="./README.md">简体中文</a> |
+  <a href="../../README.md">简体中文</a> |
   <a href="./README.zh-TW.md">繁體中文</a> |
   <a href="./README.en.md">English</a> |
   <a href="./README.ja.md">日本語</a> |
@@ -29,7 +29,7 @@
 
 [الموقع الرسمي (sanchoexo.com)](https://sanchoexo.com) · [تنزيل](#تنزيل) · [الميزات](#كسر-حدود-مربعات-الدردشة-وإعادة-تشكيل-تحليل-البيانات-المحلي) · [الملاحظات](https://github.com/jiangnanquan/SanchoExo/issues)
 
-<img src="./website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
+<img src="../../website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
 
 </div>
 
@@ -55,7 +55,7 @@
 ### 02 / AGENT INTEGRATION - التحليل المساعد الذكي
 يمكن لـ Queen فهم المشاريع ووحدات خلايا دفاتر الملاحظات وقواعد المعرفة المحلية والأدوات بشكل كامل، ودعم الأسئلة المتابعة المستمرة والفحوصات العميقة وإنشاء تقارير بيانات معقدة.
 
-<img src="./website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
+<img src="../../website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
 
 ### 03 / PERFORMANCE CORE - DuckDB OLAP فائق السرعة
 نواة حساب عمودية خفيفة الوزن مدمجة. اتصال مباشر بملايين من ملفات CSV و Excel وقواعد البيانات المحلية دون نشر أي خدمات. استجابة سريعة للغاية، مما يلغي تكاليف نقل البيانات.
@@ -63,7 +63,7 @@
 ### 04 / EXPERIENCE RECYCLE - عجلة إعادة الخبرة التحليلية
 تترسب خلايا دفتر الملاحظات وسياق البيانات والشذوذ في الفحص والتفضيلات المرئية تلقائيًا أثناء التحليل. يتم تقطير المنهجيات ذات القيمة العالية باستمرار وإعادتها إلى القوالب، مما يجعل البرنامج أكثر ذكاءً مع الاستخدام وفهمًا أعمق لعادات التحليل الخاصة بك.
 
-<img src="./website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
+<img src="../../website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
 
 ### 05 / VISUAL LANGUAGE - تصور SanchoVis
 باستخدام إرشادات منظمة، يمكن للخلايا إنشاء مخططات بتوقعات مستقرة للغاية، وتسليمها تلقائيًا إلى عارض SanchoVis لإعادة إنتاج معايير التحليل الاحترافية بشكل مثالي.

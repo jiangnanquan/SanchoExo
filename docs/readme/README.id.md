@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.md">简体中文</a> |
+  <a href="../../README.md">简体中文</a> |
   <a href="./README.zh-TW.md">繁體中文</a> |
   <a href="./README.en.md">English</a> |
   <a href="./README.ja.md">日本語</a> |
@@ -29,7 +29,7 @@ Integrasikan templat yang dapat dieksekusi, AI cerdas, DuckDB OLAP, sel yang dap
 
 [Situs Web Resmi (sanchoexo.com)](https://sanchoexo.com) · [Unduh](#unduh) · [Fitur](#menembus-batas-kotak-obrolan-membentuk-kembali-analisis-data-lokal) · [Umpan Balik](https://github.com/jiangnanquan/SanchoExo/issues)
 
-<img src="./website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
+<img src="../../website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@ Templat SanchoExo adalah enkapsulasi pengalaman analitis yang dapat dieksekusi. 
 ### 02 / AGENT INTEGRATION - Analisis Berbantuan Cerdas
 Queen dapat sepenuhnya memahami proyek, unit sel notebook, basis pengetahuan lokal, dan alat, yang mendukung pertanyaan tindak lanjut yang berkelanjutan, inspeksi mendalam, dan pembuatan laporan data yang kompleks.
 
-<img src="./website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
+<img src="../../website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
 
 ### 03 / PERFORMANCE CORE - DuckDB OLAP Ultra-cepat
 Inti komputasi kolumnar ringan bawaan. Koneksi langsung ke jutaan CSV lokal, Excel, dan database tanpa menggunakan layanan. Respons sangat cepat, meniadakan biaya pemindahan data.
@@ -61,7 +61,7 @@ Inti komputasi kolumnar ringan bawaan. Koneksi langsung ke jutaan CSV lokal, Exc
 ### 04 / EXPERIENCE RECYCLE - Roda Gila Pengembalian Pengalaman Analisis
 Sel notebook, konteks data, anomali inspeksi, dan preferensi visual diendapkan secara otomatis selama analisis. Metodologi bernilai tinggi terus-menerus disaring dan dikembalikan ke templat, membuat perangkat lunak lebih pintar dengan penggunaan dan lebih memahami kebiasaan analisis Anda.
 
-<img src="./website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
+<img src="../../website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
 
 ### 05 / VISUAL LANGUAGE - Visualisasi SanchoVis
 Menggunakan instruksi terstruktur, sel dapat menghasilkan bagan dengan ekspektasi yang sangat stabil, secara otomatis menyerahkannya ke perender SanchoVis untuk memproduksi kaliber analisis profesional dengan sempurna.

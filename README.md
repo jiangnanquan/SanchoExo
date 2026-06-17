@@ -1,22 +1,28 @@
+<!--
+  README 多语言维护提示：
+  根目录只保留 GitHub 首页展示用的简体中文 README.md。
+  其他语言版本统一放在 docs/readme/，更新首页文案时请同步维护该目录和下面的语言导航。
+-->
+
 <div align="right">
   <a href="./README.md">简体中文</a> |
-  <a href="./README.zh-TW.md">繁體中文</a> |
-  <a href="./README.en.md">English</a> |
-  <a href="./README.ja.md">日本語</a> |
-  <a href="./README.ko.md">한국어</a> |
-  <a href="./README.es.md">Español</a> |
-  <a href="./README.fr.md">Français</a> |
-  <a href="./README.de.md">Deutsch</a> |
-  <a href="./README.ru.md">Русский</a> |
-  <a href="./README.pt-BR.md">Português</a> |
-  <a href="./README.ar.md">العربية</a> |
-  <a href="./README.hi.md">हिन्दी</a> |
-  <a href="./README.id.md">Bahasa Indonesia</a> |
-  <a href="./README.th.md">ไทย</a> |
-  <a href="./README.vi.md">Tiếng Việt</a> |
-  <a href="./README.tr.md">Türkçe</a> |
-  <a href="./README.pl.md">Polski</a> |
-  <a href="./README.he.md">עברית</a>
+  <a href="./docs/readme/README.zh-TW.md">繁體中文</a> |
+  <a href="./docs/readme/README.en.md">English</a> |
+  <a href="./docs/readme/README.ja.md">日本語</a> |
+  <a href="./docs/readme/README.ko.md">한국어</a> |
+  <a href="./docs/readme/README.es.md">Español</a> |
+  <a href="./docs/readme/README.fr.md">Français</a> |
+  <a href="./docs/readme/README.de.md">Deutsch</a> |
+  <a href="./docs/readme/README.ru.md">Русский</a> |
+  <a href="./docs/readme/README.pt-BR.md">Português</a> |
+  <a href="./docs/readme/README.ar.md">العربية</a> |
+  <a href="./docs/readme/README.hi.md">हिन्दी</a> |
+  <a href="./docs/readme/README.id.md">Bahasa Indonesia</a> |
+  <a href="./docs/readme/README.th.md">ไทย</a> |
+  <a href="./docs/readme/README.vi.md">Tiếng Việt</a> |
+  <a href="./docs/readme/README.tr.md">Türkçe</a> |
+  <a href="./docs/readme/README.pl.md">Polski</a> |
+  <a href="./docs/readme/README.he.md">עברית</a>
 </div>
 
 <div align="center">

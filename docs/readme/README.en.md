@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.md">简体中文</a> |
+  <a href="../../README.md">简体中文</a> |
   <a href="./README.zh-TW.md">繁體中文</a> |
   <a href="./README.en.md">English</a> |
   <a href="./README.ja.md">日本語</a> |
@@ -29,7 +29,7 @@ Integrate executable templates, intelligent AI, DuckDB OLAP, auditable cells, st
 
 [Official Website (sanchoexo.com)](https://sanchoexo.com) · [Download](#download) · [Features](#breaking-the-limits-of-chatboxes-reshaping-local-data-analysis) · [Feedback](https://github.com/jiangnanquan/SanchoExo/issues)
 
-<img src="./website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
+<img src="../../website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@ SanchoExo's templates are the executable encapsulation of analytical experience.
 ### 02 / AGENT INTEGRATION - Intelligent Assisted Analysis
 Queen can fully understand projects, notebook Cell units, local knowledge bases, and tools, supporting continuous follow-up questions, deep inspections, and the generation of complex data reports.
 
-<img src="./website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
+<img src="../../website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
 
 ### 03 / PERFORMANCE CORE - Ultra-fast DuckDB OLAP
 Built-in lightweight columnar calculation core. Direct connection to millions of local CSVs, Excels, and databases without deploying services. Extremely fast response, eliminating data moving costs.
@@ -61,7 +61,7 @@ Built-in lightweight columnar calculation core. Direct connection to millions of
 ### 04 / EXPERIENCE RECYCLE - Analysis Experience Return Flywheel
 Notebook Cells, data context, inspection anomalies, and visual preferences are automatically precipitated during analysis. High-value methodologies are continuously distilled and returned to templates, making the software smarter with use and better understanding your analysis habits.
 
-<img src="./website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
+<img src="../../website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
 
 ### 05 / VISUAL LANGUAGE - SanchoVis Visualization
 Using structured instructions, Cells can generate charts with extremely stable expectations, automatically handing them over to the SanchoVis renderer to perfectly reproduce professional analysis calibers.

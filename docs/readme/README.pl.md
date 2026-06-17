@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.md">简体中文</a> |
+  <a href="../../README.md">简体中文</a> |
   <a href="./README.zh-TW.md">繁體中文</a> |
   <a href="./README.en.md">English</a> |
   <a href="./README.ja.md">日本語</a> |
@@ -29,7 +29,7 @@ Zintegruj wykonywalne szablony, inteligentną sztuczną inteligencję, DuckDB OL
 
 [Oficjalna strona internetowa (sanchoexo.com)](https://sanchoexo.com) · [Pobierz](#pobierz) · [Funkcje](#przełamywanie-granic-okien-czatu-przekształcanie-lokalnej-analizy-danych) · [Opinie](https://github.com/jiangnanquan/SanchoExo/issues)
 
-<img src="./website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
+<img src="../../website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@ Szablony SanchoExo są wykonywalną hermetyzacją doświadczenia analitycznego. 
 ### 02 / AGENT INTEGRATION - Inteligentna analiza wspomagana
 Queen potrafi w pełni zrozumieć projekty, jednostki komórek notatnika, lokalne bazy wiedzy i narzędzia, wspierając ciągłe pytania uzupełniające, dogłębne inspekcje i generowanie złożonych raportów danych.
 
-<img src="./website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
+<img src="../../website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
 
 ### 03 / PERFORMANCE CORE - Ultraszybki DuckDB OLAP
 Wbudowany lekki kolumnowy rdzeń obliczeniowy. Bezpośrednie połączenie z milionami lokalnych plików CSV, Excel i baz danych bez wdrażania usług. Niezwykle szybka reakcja, eliminująca koszty przenoszenia danych.
@@ -61,7 +61,7 @@ Wbudowany lekki kolumnowy rdzeń obliczeniowy. Bezpośrednie połączenie z mili
 ### 04 / EXPERIENCE RECYCLE - Koło zamachowe zwrotu z doświadczenia w zakresie analizy
 Komórki notatnika, kontekst danych, anomalie inspekcyjne i preferencje wizualne są automatycznie osadzane podczas analizy. Metodologie o wysokiej wartości są stale destylowane i zwracane do szablonów, dzięki czemu oprogramowanie staje się mądrzejsze z użyciem i lepiej rozumie Twoje nawyki analityczne.
 
-<img src="./website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
+<img src="../../website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
 
 ### 05 / VISUAL LANGUAGE - Wizualizacja SanchoVis
 Korzystając z ustrukturyzowanych instrukcji, komórki mogą generować wykresy z niezwykle stabilnymi oczekiwaniami, automatycznie przekazując je rendererowi SanchoVis, aby doskonale odtworzyć profesjonalne kalibry analizy.

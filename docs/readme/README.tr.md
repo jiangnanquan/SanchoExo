@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.md">简体中文</a> |
+  <a href="../../README.md">简体中文</a> |
   <a href="./README.zh-TW.md">繁體中文</a> |
   <a href="./README.en.md">English</a> |
   <a href="./README.ja.md">日本語</a> |
@@ -29,7 +29,7 @@ Yürütülebilir şablonları, akıllı yapay zekayı, DuckDB OLAP'ı, denetlene
 
 [Resmi Web Sitesi (sanchoexo.com)](https://sanchoexo.com) · [İndir](#i̇ndir) · [Özellikler](#sohbet-kutularının-sınırlarını-aşmak-yerel-veri-analizini-yeniden-şekillendirmek) · [Geri Bildirim](https://github.com/jiangnanquan/SanchoExo/issues)
 
-<img src="./website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
+<img src="../../website/img/app-portal-page.png" alt="SanchoExo Portal" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@ SanchoExo'nun şablonları analitik deneyimin yürütülebilir bir şekilde kaps
 ### 02 / AGENT INTEGRATION - Akıllı Destekli Analiz
 Queen, projeleri, dizüstü bilgisayar hücre birimlerini, yerel bilgi tabanlarını ve araçları tam olarak anlayabilir, sürekli takip sorularını, derin denetimleri ve karmaşık veri raporlarının oluşturulmasını destekler.
 
-<img src="./website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
+<img src="../../website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
 
 ### 03 / PERFORMANCE CORE - Ultra Hızlı DuckDB OLAP
 Dahili hafif sütunlu hesaplama çekirdeği. Hizmetleri dağıtmadan milyonlarca yerel CSV, Excel ve veritabanına doğrudan bağlantı. Veri taşıma maliyetlerini ortadan kaldıran son derece hızlı tepki.
@@ -61,7 +61,7 @@ Dahili hafif sütunlu hesaplama çekirdeği. Hizmetleri dağıtmadan milyonlarca
 ### 04 / EXPERIENCE RECYCLE - Analiz Deneyimi Getiri Volanı
 Notebook hücreleri, veri bağlamı, denetim anormallikleri ve görsel tercihler analiz sırasında otomatik olarak çöktürülür. Yüksek değerli metodolojiler sürekli olarak damıtılır ve şablonlara geri gönderilir, bu da yazılımı kullanımla daha akıllı hale getirir ve analiz alışkanlıklarınızı daha iyi anlar.
 
-<img src="./website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
+<img src="../../website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
 
 ### 05 / VISUAL LANGUAGE - SanchoVis Görselleştirme
 Yapılandırılmış yönergeleri kullanarak, hücreler son derece kararlı beklentilerle grafikler oluşturabilir ve profesyonel analiz kalibrelerini mükemmel bir şekilde yeniden üretmek için bunları otomatik olarak SanchoVis oluşturucuya teslim edebilir.

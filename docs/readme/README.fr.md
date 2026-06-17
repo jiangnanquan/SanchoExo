@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.md">简体中文</a> |
+  <a href="../../README.md">简体中文</a> |
   <a href="./README.zh-TW.md">繁體中文</a> |
   <a href="./README.en.md">English</a> |
   <a href="./README.ja.md">日本語</a> |
@@ -29,7 +29,7 @@ Intégrez des modèles exécutables, une IA intelligente, DuckDB OLAP, des cellu
 
 [Site officiel (sanchoexo.com)](https://sanchoexo.com) · [Télécharger](#télécharger) · [Fonctionnalités](#briser-les-limites-des-boîtes-de-discussion-remodeler-lanalyse-des-données-locales) · [Commentaires](https://github.com/jiangnanquan/SanchoExo/issues)
 
-<img src="./website/img/app-portal-page.png" alt="Portail SanchoExo" width="100%">
+<img src="../../website/img/app-portal-page.png" alt="Portail SanchoExo" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@ Les modèles de SanchoExo sont l'encapsulation exécutable de l'expérience anal
 ### 02 / AGENT INTEGRATION - Analyse Assistée Intelligente
 Queen peut comprendre pleinement les projets, les unités de cellules de cahier, les bases de connaissances locales et les outils, prenant en charge les questions de suivi continues, les inspections approfondies et la génération de rapports de données complexes.
 
-<img src="./website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
+<img src="../../website/img/app-notebook-dark.png" alt="Unified Notebook" width="100%">
 
 ### 03 / PERFORMANCE CORE - DuckDB OLAP ultra-rapide
 Noyau de calcul en colonnes léger intégré. Connexion directe à des millions de fichiers CSV, Excel et bases de données locales sans déployer de services. Réponse extrêmement rapide, éliminant les coûts de déplacement des données.
@@ -61,7 +61,7 @@ Noyau de calcul en colonnes léger intégré. Connexion directe à des millions 
 ### 04 / EXPERIENCE RECYCLE - Volant de Retour d'Expérience d'Analyse
 Les cellules du bloc-notes, le contexte des données, les anomalies d'inspection et les préférences visuelles sont automatiquement précipitées pendant l'analyse. Les méthodologies à forte valeur ajoutée sont continuellement distillées et renvoyées aux modèles, ce qui rend le logiciel plus intelligent avec l'utilisation et permet de mieux comprendre vos habitudes d'analyse.
 
-<img src="./website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
+<img src="../../website/img/app-data-inspection.png" alt="Data Inspection" width="100%">
 
 ### 05 / VISUAL LANGUAGE - Visualisation SanchoVis
 En utilisant des instructions structurées, les cellules peuvent générer des graphiques avec des attentes extrêmement stables, les transmettant automatiquement au moteur de rendu SanchoVis pour reproduire parfaitement les calibres d'analyse professionnelle.
